@@ -87,3 +87,13 @@ The ATS score is a rule-based skill-match estimate for guidance only. It does no
 
 Laasya Garaga
 B.Tech – Information Technology
+
+## 📸 Application Screenshots
+
+### ATS Screening Results
+
+![ATS Results](screenshots/ats-results.png)
+
+### PDF Screening Report
+
+![PDF Report](screenshots/ats-report.png)
