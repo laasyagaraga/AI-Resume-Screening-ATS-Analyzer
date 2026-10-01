@@ -1,0 +1,6 @@
+# Current version uses only Python standard library.
+
+streamlit
+PyPDF2
+reportlab
+
